@@ -1,0 +1,8 @@
+C:\Users\walte\source\repos\AprendendoCSharp\TerceiroProjeto\bin\Debug\TerceiroProjeto.exe.config
+C:\Users\walte\source\repos\AprendendoCSharp\TerceiroProjeto\bin\Debug\TerceiroProjeto.exe
+C:\Users\walte\source\repos\AprendendoCSharp\TerceiroProjeto\bin\Debug\TerceiroProjeto.pdb
+C:\Users\walte\source\repos\AprendendoCSharp\TerceiroProjeto\obj\Debug\TerceiroProjeto.csproj.AssemblyReference.cache
+C:\Users\walte\source\repos\AprendendoCSharp\TerceiroProjeto\obj\Debug\TerceiroProjeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\walte\source\repos\AprendendoCSharp\TerceiroProjeto\obj\Debug\TerceiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\walte\source\repos\AprendendoCSharp\TerceiroProjeto\obj\Debug\TerceiroProjeto.exe
+C:\Users\walte\source\repos\AprendendoCSharp\TerceiroProjeto\obj\Debug\TerceiroProjeto.pdb

@@ -1,0 +1,8 @@
+C:\Users\walte\source\repos\AprendendoCSharp\SegundoProjeto\bin\Debug\SegundoProjeto.exe.config
+C:\Users\walte\source\repos\AprendendoCSharp\SegundoProjeto\bin\Debug\SegundoProjeto.exe
+C:\Users\walte\source\repos\AprendendoCSharp\SegundoProjeto\bin\Debug\SegundoProjeto.pdb
+C:\Users\walte\source\repos\AprendendoCSharp\SegundoProjeto\obj\Debug\SegundoProjeto.csproj.AssemblyReference.cache
+C:\Users\walte\source\repos\AprendendoCSharp\SegundoProjeto\obj\Debug\SegundoProjeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\walte\source\repos\AprendendoCSharp\SegundoProjeto\obj\Debug\SegundoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\walte\source\repos\AprendendoCSharp\SegundoProjeto\obj\Debug\SegundoProjeto.exe
+C:\Users\walte\source\repos\AprendendoCSharp\SegundoProjeto\obj\Debug\SegundoProjeto.pdb

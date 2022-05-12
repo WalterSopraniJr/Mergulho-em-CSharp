@@ -1,0 +1,8 @@
+C:\Users\walte\source\repos\AprendendoCSharp\_7_Condicionais\bin\Debug\_7_Condicionais.exe.config
+C:\Users\walte\source\repos\AprendendoCSharp\_7_Condicionais\bin\Debug\_7_Condicionais.exe
+C:\Users\walte\source\repos\AprendendoCSharp\_7_Condicionais\bin\Debug\_7_Condicionais.pdb
+C:\Users\walte\source\repos\AprendendoCSharp\_7_Condicionais\obj\Debug\_7_Condicionais.csproj.AssemblyReference.cache
+C:\Users\walte\source\repos\AprendendoCSharp\_7_Condicionais\obj\Debug\_7_Condicionais.csproj.SuggestedBindingRedirects.cache
+C:\Users\walte\source\repos\AprendendoCSharp\_7_Condicionais\obj\Debug\_7_Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\walte\source\repos\AprendendoCSharp\_7_Condicionais\obj\Debug\_7_Condicionais.exe
+C:\Users\walte\source\repos\AprendendoCSharp\_7_Condicionais\obj\Debug\_7_Condicionais.pdb
