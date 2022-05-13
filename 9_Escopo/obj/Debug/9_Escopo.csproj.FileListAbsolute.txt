@@ -1,0 +1,8 @@
+C:\Users\walte\source\repos\AprendendoCSharp\9_Escopo\obj\Debug\9_Escopo.csproj.AssemblyReference.cache
+C:\Users\walte\source\repos\AprendendoCSharp\9_Escopo\obj\Debug\9_Escopo.csproj.SuggestedBindingRedirects.cache
+C:\Users\walte\source\repos\AprendendoCSharp\9_Escopo\obj\Debug\9_Escopo.csproj.CoreCompileInputs.cache
+C:\Users\walte\source\repos\AprendendoCSharp\9_Escopo\bin\Debug\9_Escopo.exe.config
+C:\Users\walte\source\repos\AprendendoCSharp\9_Escopo\bin\Debug\9_Escopo.exe
+C:\Users\walte\source\repos\AprendendoCSharp\9_Escopo\bin\Debug\9_Escopo.pdb
+C:\Users\walte\source\repos\AprendendoCSharp\9_Escopo\obj\Debug\9_Escopo.exe
+C:\Users\walte\source\repos\AprendendoCSharp\9_Escopo\obj\Debug\9_Escopo.pdb
