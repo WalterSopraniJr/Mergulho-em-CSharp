@@ -7,7 +7,7 @@
     <ProjectGuid>{46BC38FF-87B1-46FB-9FDD-BFDF46167CB8}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_8_Condicionais2</RootNamespace>
-    <AssemblyName>_8_Condicionais2</AssemblyName>
+    <AssemblyName>8_Condicionais2</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
