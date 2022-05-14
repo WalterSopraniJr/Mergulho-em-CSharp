@@ -1,0 +1,8 @@
+C:\Users\walte\source\repos\AprendendoCSharp\P11-CalculaPoupanca\bin\Debug\P11-CalculaPoupanca.exe.config
+C:\Users\walte\source\repos\AprendendoCSharp\P11-CalculaPoupanca\bin\Debug\P11-CalculaPoupanca.exe
+C:\Users\walte\source\repos\AprendendoCSharp\P11-CalculaPoupanca\bin\Debug\P11-CalculaPoupanca.pdb
+C:\Users\walte\source\repos\AprendendoCSharp\P11-CalculaPoupanca\obj\Debug\P11-CalculaPoupanca.csproj.AssemblyReference.cache
+C:\Users\walte\source\repos\AprendendoCSharp\P11-CalculaPoupanca\obj\Debug\P11-CalculaPoupanca.csproj.SuggestedBindingRedirects.cache
+C:\Users\walte\source\repos\AprendendoCSharp\P11-CalculaPoupanca\obj\Debug\P11-CalculaPoupanca.csproj.CoreCompileInputs.cache
+C:\Users\walte\source\repos\AprendendoCSharp\P11-CalculaPoupanca\obj\Debug\P11-CalculaPoupanca.exe
+C:\Users\walte\source\repos\AprendendoCSharp\P11-CalculaPoupanca\obj\Debug\P11-CalculaPoupanca.pdb
